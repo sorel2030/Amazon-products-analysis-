@@ -50,7 +50,6 @@ With more time, I would:
 
 ---
 ## Visualization Preview
-
-![Amazon Distribution](amazon_distribution.png)
+![Amazon Distribution](amazon.distribution.png)
 ## Author
 Sorel Chanel Tiokap Guemdjou
