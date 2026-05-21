@@ -49,6 +49,8 @@ With more time, I would:
 - Perform sentiment analysis on customer reviews
 
 ---
+## Visualization Preview
 
+![Amazon Distribution](amazon_distribution.png)
 ## Author
 Sorel Chanel Tiokap Guemdjou
